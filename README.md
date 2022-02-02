@@ -32,8 +32,8 @@ This is a boilerplate with config for webpack, typescript, babel, .. to start a 
 ## TODO
 
 - [x] Webpack
-- [ ] Babel
-- [ ] TS
+- [x] Babel
+- [x] TS
 - [ ] Jest
 
 ## LICENSE
